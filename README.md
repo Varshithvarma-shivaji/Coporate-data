@@ -1,5 +1,5 @@
 
-# WorkPulse - Corporate Workforce Management System
+#  Corporate Workforce Management System
 
 ## 📌 Project Overview
 
